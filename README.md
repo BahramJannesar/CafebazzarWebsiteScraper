@@ -39,5 +39,53 @@ I tried to gather all of the data from applications in this website, just for fu
 * racing
 * sports-game
 
-find the links are **[here](https://github.com/BahramJannesar/CafebazzarWebsiteScraper/blob/master/cafebazzar_category_link.txt)**
+Find the links are **[here](https://github.com/BahramJannesar/CafebazzarWebsiteScraper/blob/master/cafebazzar_category_link.txt)**
 
+### Dataset's Sample
+
+      {
+    "app_category": "weather",
+    "links": [
+        "https://cafebazaar.ir/app/com.app.weatherclock",
+        "https://cafebazaar.ir/app/com.accuweather.android",
+        "https://cafebazaar.ir/app/com.devexpert.weather",
+        "https://cafebazaar.ir/app/yo.app.free",
+        "https://cafebazaar.ir/app/com.weather.Weather",
+        "https://cafebazaar.ir/app/com.yahoo.mobile.client.android.weather",
+        "https://cafebazaar.ir/app/com.aws.android",
+        "https://cafebazaar.ir/app/mobi.infolife.ezweather",
+        "https://cafebazaar.ir/app/com.handmark.expressweather",
+        "https://cafebazaar.ir/app/mobi.heroteam.larzenegar",
+        "https://cafebazaar.ir/app/com.cube.arc.fa",
+        "https://cafebazaar.ir/app/com.joshclemm.android.quake",
+        "https://cafebazaar.ir/app/com.cube.rca.bcfa",
+        "https://cafebazaar.ir/app/com.atorina.emergencyapp",
+        "https://cafebazaar.ir/app/com.topstcn.eq",
+        "https://cafebazaar.ir/app/com.app.weatherclock",
+        "https://cafebazaar.ir/app/com.weather.Weather",
+        "https://cafebazaar.ir/app/ir.rayandish.air_quality",
+        "https://cafebazaar.ir/app/com.mkdev.havasanj",
+        "https://cafebazaar.ir/app/com.accuweather.android",
+        "https://cafebazaar.ir/app/com.chanel.weather.forecast.accu",
+        "https://cafebazaar.ir/app/com.app.weatherclock",
+        "https://cafebazaar.ir/app/com.devexpert.weather",
+        "https://cafebazaar.ir/app/ir.unclemilad.weatherfarsi",
+        "https://cafebazaar.ir/app/com.yahoo.mobile.client.android.weather",
+        "https://cafebazaar.ir/app/com.weather.Weather",
+        "https://cafebazaar.ir/app/yo.app.free",
+        "https://cafebazaar.ir/app/com.macropinch.swan",
+        "https://cafebazaar.ir/app/com.desert.roseta",
+        "https://cafebazaar.ir/app/ir.rayandish.air_quality",
+        "https://cafebazaar.ir/app/com.gau.go.launcherex.gowidget.weatherwidget",
+        "https://cafebazaar.ir/app/com.droidteam.weather",
+        "https://cafebazaar.ir/app/com.mahmoodmph.weatherforecast",
+        "https://cafebazaar.ir/app/com.apalon.weatherlive.free",
+        "https://cafebazaar.ir/app/mobi.infolife.ezweather",
+        "https://cafebazaar.ir/app/com.newdesigner.weatherapp",
+        "https://cafebazaar.ir/app/com.zozo.weather",
+        "https://cafebazaar.ir/app/com.graph.weather.samgoostar.channel",
+        "https://cafebazaar.ir/app/com.droidteam.weather",
+        "https://cafebazaar.ir/app/org.naserbb.weather",
+        "https://cafebazaar.ir/app/com.rootweather.ayasweather"
+    ]
+     }
