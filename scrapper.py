@@ -111,8 +111,8 @@ def applications_data_scraper(applications_link_path_name):
 
 if __name__ == "__main__":
 
-    # category_link_scrapper(base_url)
+    category_link_scrapper(base_url)
 
-    # app_link_scrapper(category_link_path_name)
+    app_link_scrapper(category_link_path_name)
 
     applications_data_scraper(applications_link_path_name)
