@@ -6,7 +6,7 @@
 ### Data Gathering
 I tried to gather all of the data from applications in this website, just for fun. It makes a good dataset for every data scientist who likes to have.
 
-### Cafe Bazzar Application Category 
+### Cafe Bazzar Applications Category 
 
 * weather
 * entertainment
@@ -43,7 +43,7 @@ Find the links are **[here](https://github.com/BahramJannesar/CafebazzarWebsiteS
 
 ### Dataset's Sample
 
-**Category Application Links**
+**Category Applications Links**
 
       {
     "app_category": "weather",
