@@ -5,3 +5,39 @@
 
 ### Data Gathering
 I tried to gather all of the data from applications in this website, just for fun. It makes a good dataset for every data scientist who likes to have.
+
+### Cafe Bazzar Application Category 
+
+* weather
+* entertainment
+* food-drink
+* travel-local
+* education
+* social
+* tools
+* personalization
+* finance
+* photography
+* medical
+* books-reference
+* health-fitness
+* kids-apps
+* shopping
+* religious
+* maps-navigation
+* music-audio
+* lifestyle
+* sports
+* strategy
+* simulation
+* action
+* word-trivia
+* arcade
+* kids-games
+* casual
+* puzzle
+* racing
+* sports-game
+
+**find the links are [here](https://github.com/BahramJannesar/CafebazzarWebsiteScraper/blob/master/cafebazzar_category_link.txt)**
+
