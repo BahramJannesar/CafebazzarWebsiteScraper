@@ -39,5 +39,5 @@ I tried to gather all of the data from applications in this website, just for fu
 * racing
 * sports-game
 
-**find the links are [here](https://github.com/BahramJannesar/CafebazzarWebsiteScraper/blob/master/cafebazzar_category_link.txt)**
+find the links are **[here](https://github.com/BahramJannesar/CafebazzarWebsiteScraper/blob/master/cafebazzar_category_link.txt)**
 
